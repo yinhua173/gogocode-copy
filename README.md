@@ -5,7 +5,7 @@
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
 ## What is GoGoCode?
-分区B
+可以更改的地方
 [中文 README](README-cn.md)
 有更改的地方
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
